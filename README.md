@@ -1,6 +1,6 @@
 ### Hi, I'm Walter Ifeakanwa 👋
 
-## I'm a FrontEnd Engineer, Technology Enthusiast and a Gamer.
+## I'm a Software Engineer, Technology Enthusiast and a Gamer.
 
 - 🔭 I’m currently advancing my knowledge
 - 👯 I’m looking to collaborate more on open source projects
