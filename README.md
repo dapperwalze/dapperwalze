@@ -1,9 +1,6 @@
 ### Hi, I'm Walter Ifeakanwa 👋
 
-## I'm a Software Engineer and a Technology enthusiast
-
-- 🔭: I’m currently advancing my knowledge
-- 🎯 Goals: I’m looking to collaborate more on open-source projects, Create more tech content and collaborate with content creators
+## I'm a Full-stack Software Engineer
 
 ### Connect With Me
 
